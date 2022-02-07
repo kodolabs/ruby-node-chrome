@@ -1,4 +1,4 @@
-FROM ruby:2.6.3
+FROM ruby:2.7.2
 
 # Node
 RUN curl -sL https://deb.nodesource.com/setup_14.x | bash -
