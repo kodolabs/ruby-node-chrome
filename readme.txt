@@ -1,7 +1,7 @@
 - make edits to Dockerfile
 - build
 
-  docker build . -t ruby-node-chrome:2.7.2
+  docker build . -t kodolabs/ruby-node-chrome:2.7.2
 
 - push to docker with a tag
 
